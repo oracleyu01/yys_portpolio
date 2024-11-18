@@ -20,4 +20,6 @@ Click the thumbnail above to watch the video on YouTube: **"Title of the Video"*
 
 ## Certifications
 
-![국가기술자격증](자격증1.png)
+<div style="text-align: center;">
+    <img src="자격증1.png" alt="국가기술자격증" width="400">
+</div>
